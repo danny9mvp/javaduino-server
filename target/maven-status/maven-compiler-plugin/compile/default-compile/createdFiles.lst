@@ -1,0 +1,5 @@
+com\dannymvp\javaduinoserver\tcpip\IMessageSender.class
+com\dannymvp\javaduinoserver\model\TemperatureHumidityMeasure.class
+com\dannymvp\javaduinoserver\arduino\Main.class
+com\dannymvp\javaduinoserver\tcpip\TcpIpServer.class
+com\dannymvp\javaduinoserver\tcpip\MessageSender.class
